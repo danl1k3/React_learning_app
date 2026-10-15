@@ -7,16 +7,10 @@ import './App.css'
 function App() {
   return (
     <>
-    <Text text="Holla!"/>
-    <Text text="First prop1!1!1"/>
+    
     </>
   )
 }
 
-function Text({text}){
-  return(
-    <div><p>{text}</p></div>
-  )
-}
 
 export default App
